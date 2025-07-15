@@ -1,2 +1,2 @@
-# PRODIGY_FS_01
+# PRODIGY_FS_task1
 Secure user authentication for prodigy infotech 
